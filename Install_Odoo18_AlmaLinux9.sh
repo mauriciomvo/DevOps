@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # SCRIPT DE INSTALAÇÃO DO ODOO 18 (Source Install) NO ALMALINUX 9
-# Autor: Gemini (Google)
+# Autor: MAURICIO VALERINI
 # Data: Outubro 2025
 # ==============================================================================
 
